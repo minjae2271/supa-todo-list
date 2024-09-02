@@ -1,9 +1,9 @@
-import Image from "next/image";
+import UI from "./Ui";
 
 export default function Home() {
   return (
     <main>
-      TODO LIST
+      <UI />
     </main>
   );
 }
